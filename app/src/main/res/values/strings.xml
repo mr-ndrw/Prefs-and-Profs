@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Prefs and Profs</string>
     <string name="action_settings">Settings</string>
+
+
+    <!-- Prefences values names -->
+    <string name="stored_value_name"></string>
 </resources>
